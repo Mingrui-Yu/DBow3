@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/g++-7  -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11 -fPIC   -std=gnu++11 -o CMakeFiles/DBoW3.dir/BowVector.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/BowVector.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/BowVector.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/g++-7  -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11 -fPIC   -std=gnu++11 -o CMakeFiles/DBoW3.dir/Database.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/Database.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/Database.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/g++-7  -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11 -fPIC   -std=gnu++11 -o CMakeFiles/DBoW3.dir/DescManip.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/DescManip.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/DescManip.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/g++-7  -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11 -fPIC   -std=gnu++11 -o CMakeFiles/DBoW3.dir/FeatureVector.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/FeatureVector.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/FeatureVector.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/g++-7  -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11 -fPIC   -std=gnu++11 -o CMakeFiles/DBoW3.dir/QueryResults.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/QueryResults.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/QueryResults.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/g++-7  -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11 -fPIC   -std=gnu++11 -o CMakeFiles/DBoW3.dir/ScoringObject.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/ScoringObject.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/ScoringObject.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/g++-7  -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11 -fPIC   -std=gnu++11 -o CMakeFiles/DBoW3.dir/Vocabulary.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/Vocabulary.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/Vocabulary.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src",
+  "command": "/usr/bin/gcc-7 -DDBOW_DSO_EXPORTS -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/. -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/./utils -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -fPIC   -o CMakeFiles/DBoW3.dir/quicklz.c.o   -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/quicklz.c",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src/quicklz.c"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/utils",
+  "command": "/usr/bin/g++-7  -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11   -std=gnu++11 -o CMakeFiles/create_voc_step0.dir/create_voc_step0.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/utils/create_voc_step0.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/utils/create_voc_step0.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/utils",
+  "command": "/usr/bin/g++-7  -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11   -std=gnu++11 -o CMakeFiles/demo_general.dir/demo_general.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/utils/demo_general.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/utils/demo_general.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/utils",
+  "command": "/usr/bin/g++-7  -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11   -std=gnu++11 -o CMakeFiles/create_voc_step1.dir/create_voc_step1.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/utils/create_voc_step1.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/utils/create_voc_step1.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/mytest",
+  "command": "/usr/bin/g++-7  -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11   -std=gnu++11 -o CMakeFiles/test2.dir/test2.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/mytest/test2.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/mytest/test2.cpp"
+},
+{
+  "directory": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/build/mytest",
+  "command": "/usr/bin/g++-7  -DOPENCV_VERSION_3 -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/src    -fomit-frame-pointer -O3 -mmmx -msse -msse2 -msse3 -DNDEBUG    -std=c++11   -std=gnu++11 -o CMakeFiles/test1.dir/test1.cpp.o -c /home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/mytest/test1.cpp",
+  "file": "/home/mingrui/Mingrui/SLAMProject/DBoW/DBow3/mytest/test1.cpp"
+}
+]

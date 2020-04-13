@@ -50,6 +50,9 @@ OPTION(BUILD_SHARED_LIBS 	"Set to OFF to build static libraries" ON)
 # ----------------------------------------------------------------------------
 #   Find Dependencies
 # ----------------------------------------------------------------------------
+#Eigen
+include_directories("/usr/include/eigen3")
+
 find_package(OpenCV  REQUIRED)
 IF(USE_CONTRIB)
 add_definitions(-DUSE_CONTRIB)
@@ -227,6 +230,8 @@ ENDIF()
 IF (BUILD_TESTS)
 ADD_SUBDIRECTORY(tests)
 ENDIF()
+
+ADD_SUBDIRECTORY(mytest)
 
 
 # ----------------------------------------------------------------------------

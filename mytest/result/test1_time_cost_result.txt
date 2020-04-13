@@ -1,0 +1,14 @@
+ -- time cost for loading the vocabulary 0.544s
+
+ -- time cost for extracting features: 
+ mean: 0.015260s, stdev: 0.001990s
+
+ -- time cost for extracting BoW vector: 
+ mean: 0.019208s, stdev: 0.004305s
+
+ -- time cost for adding one image's BoW to database: 
+ mean: 0.000068s, stdev: 0.000013s
+
+ -- time cost for querying: 
+ mean: 0.000221s, stdev: 0.000044s
+
